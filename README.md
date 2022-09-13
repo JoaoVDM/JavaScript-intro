@@ -1,3 +1,3 @@
 # JavaScript-intro
 
-Curso de "JavaScript: explorando a linguagem" da Alura
+Curso de "JavaScript: explorando a linguagem" da Alura.
